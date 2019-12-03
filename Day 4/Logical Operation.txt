@@ -1,0 +1,16 @@
+>>> x = False
+>>> Y =True
+>>> x and Y
+False
+>>> x or Y
+True
+>>> y =True
+>>> x or y
+True
+>>> not(x or y)
+False
+>>> not (x or y)
+False
+>>> z = False
+>>> not (x or y)  or z
+FalseS

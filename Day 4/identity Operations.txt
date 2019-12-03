@@ -1,0 +1,15 @@
+
+>>> myList = [20,30,10,55,44]
+>>> myVal = 55
+>>> myVal in myList
+True
+>>> myVal = 99
+>>> myVal in myList
+False
+>>> a = 10
+>>> b = 10
+>>> id(a)
+140714956076144
+>>> id(b)
+140714956076144
+>>>
