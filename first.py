@@ -1,0 +1,1 @@
+print("Congratulations for running first script")
